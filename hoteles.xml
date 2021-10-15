@@ -6,3 +6,19 @@
     habitaciones triples, suites.
     Probar si es un documento bien formado.
 -->
+<registro>
+    <nombre> Hotel Paco </nombre>
+    <telf numero="123456789"/>
+    <dirección calle="Calle falsa" numero="123"/>
+    <ciudad>Vigo</ciudad>
+    <pais>España</pais>
+    <n_estrellas estrellas="4"/>
+    <descripción> Modesto hotel situado en el centro de la ciudad </descripción>
+    <n_individual habitaciones="4"/>
+    <n_doble habitaciones="6"/>
+    <n_triple habitaciones="4"/>
+    <n_suite habitaciones="2"/>
+</registro>
+
+
+
